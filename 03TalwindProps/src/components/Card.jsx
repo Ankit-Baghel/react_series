@@ -1,6 +1,6 @@
 import React from 'react'
 
-function card({channel, btnText}) {
+function card({channel, btnText="subscribe"}) {
    
   return (
     <>
